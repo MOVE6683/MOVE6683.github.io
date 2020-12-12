@@ -7,7 +7,7 @@ body {
 	
  background-image: url(/images/bg-footer.png);
  background-repeat:repeat-y;
- background-position:top;
+ background-position:left top;
 }
 }
 img {
@@ -224,13 +224,13 @@ p a:hover {
 /** Adbox **/
 #adbox {
 	background: url(../images/bg-adbox.png) no-repeat center bottom;
-	border-bottom: 0px solid #fff;
+	border-bottom: 0px solid #202020;
 	padding-top: 15px;
 }
 #adbox > div {
 	background-color: #000000;
 	width: 958px;
-	border: 0px solid #fff;
+	border: 0px solid #111111;
 	margin: 0 auto;
 	position: relative;
 }
