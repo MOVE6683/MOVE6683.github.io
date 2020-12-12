@@ -553,7 +553,7 @@ p a:hover {
 }
 /*------------ FOOTER ------------*/
 #footer {
-	background: #d9d9d9 url(../images/bg-footer.png) repeat-y left top;
+	background: #d9d9d9 url(..) repeat-x left top;
 	border-top: 2px solid #fff;
 }
 #footer .section {
