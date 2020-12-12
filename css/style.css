@@ -5,8 +5,8 @@ body {
 	margin: 0;
 	
 	
- background-image: url();
- background-repeat:repeat-y;
+ background-image: url(/images/bg-footer.png);
+ background-repeat:repeat-x;
  background-position:left top;
 }
 }
