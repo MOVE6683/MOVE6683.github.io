@@ -5,8 +5,8 @@ body {
 	margin: 0;
 	
 	
- background-image: url(/images/AdBox.png);
- background-repeat:no-repeat;
+ background-image: url(/images/bg-footer.png);
+ background-repeat:repeat;
  background-position:top center;
 }
 }
