@@ -248,7 +248,7 @@ p a:hover {
 	top: 90px;
 }
 #adbox .detail h1 {
-	color: #F8F8F8;
+	color: #FFFFFF;
 	font-size: 50px;
 	font-weight: normal;
 	line-height: 48px;
@@ -256,7 +256,7 @@ p a:hover {
 	text-transform: none;
 }
 #adbox .detail p {
-	color: #f8f8f8;
+	color: #FFFFFF;
 	font: 25px/48px "Times New Roman", Times, serif;
 	margin: 0;
 }
