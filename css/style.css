@@ -228,7 +228,7 @@ p a:hover {
 	padding-top: 15px;
 }
 #adbox > div {
-	background-color: #000000;
+	background-color: #transparent;
 	width: 958px;
 	border: 0px solid #ffffff;
 	margin: 0 auto;
