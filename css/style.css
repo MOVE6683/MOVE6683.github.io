@@ -1,6 +1,6 @@
 
 body {
-	background-color: #000000;
+	background-color: #5D5D5D;
 	min-width: 960px;
 	margin: 0;
 	
@@ -135,7 +135,7 @@ img {
 }
 /** logo **/
 .logo {
-	float: left;
+	float: left bottom;
 	display: inline-block;
 }
 
