@@ -130,7 +130,7 @@ img {
 }
 /*------------ HEADER ------------*/
 #header {
-	background: #202020 url(..) repeat-x left bottom;
+	background: #transparent url(..) repeat-x left bottom;
 	padding: 40px 0 46px;
 }
 /** logo **/
