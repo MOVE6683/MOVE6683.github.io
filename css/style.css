@@ -223,6 +223,13 @@ p a {
 p a:hover {
 	color: #333333;
 }
+
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
 /** Adbox **/
 
 
