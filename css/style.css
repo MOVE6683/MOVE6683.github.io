@@ -163,6 +163,11 @@ img {
   background-color: #4CAF50;
   color: white;
 }
+
+.content {
+  padding: 16px;
+}
+
 .sticky {
   position: fixed;
   top: 0;
