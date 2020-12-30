@@ -236,7 +236,8 @@ p a:hover {
 
 
 #adbox {
-	background: url(../images/bg-adbox.png) no-repeat center bottom;
+	background-color: #transparent;
+	background: url(..) no-repeat center bottom;
 	border-bottom: 0px solid #202020;
 	padding-top: 0px;
 }
