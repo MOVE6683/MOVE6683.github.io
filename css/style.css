@@ -130,7 +130,8 @@ img {
 }
 /*------------ HEADER ------------*/
 #header {
-	background: #transparent url(..) repeat-x left bottom;
+	background-color: #transparent;
+	background: url(..bg-header.png ) repeat-x left bottom;
 	padding: 40px 0 46px;
 }
 /** logo **/
