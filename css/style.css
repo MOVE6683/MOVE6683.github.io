@@ -262,13 +262,16 @@ p a:hover {
 	color: #333333;
 }
 /** Adbox **/
+
+.adbox {
+	background-image: url(../images/AdBox.png);
+	}
 #adbox {
 	background: url(../images/bg-adbox.png) no-repeat center bottom;
 	border-bottom: 0px solid #202020;
 	padding-top: 0px;
 }
 #adbox > div {
-	background-image: url(../images/AdBox.png);
 	background-color: #transparent;
 	width: 958px;
 	border: 0px solid #ffffff;
